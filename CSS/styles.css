@@ -15,14 +15,20 @@
     padding: 8px;
     text-align: center; 
 }
+
 .main section {
     width: 100%; 
     height: 10em;
 }
+
 .main section h2 {
     background-color: #C4C4C4;
     color:#005677;
     letter-spacing: 5px;
+}
+
+.main__DatosPersonales__ul {
+margin-left: 1.1em;
 }
 
 .main__DatosPersonales__ul li {
